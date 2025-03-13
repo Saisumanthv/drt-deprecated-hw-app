@@ -1,1 +1,0 @@
-# drt-deprecated-hw-app
